@@ -3,7 +3,7 @@
 
 * It allows you to select repositories on github to keep them all in the same page.
 
-![Robofrineds app view](./public/WebView.png)
+![App view](./public/WebView.PNG)
 
 * The repositories are stored on your browser's cache. <br />
 
