@@ -40,7 +40,8 @@ export const RepositoryInfo = styled.section`
 
       strong {
         font-size: 36px;
-        color: #3d3d4d;
+        /* color: #3d3d4d; */
+        color: #fff;
       }
 
       p {
@@ -64,7 +65,8 @@ export const RepositoryInfo = styled.section`
       strong {
         display: block;
         font-size: 36px;
-        color: #3d3d4d;
+        /* color: #3d3d4d; */
+        color: #fff;
       }
 
       span {
@@ -80,7 +82,7 @@ export const Issues = styled.div`
   margin-top: 80px;
 
   a {
-    background: #FFF;
+    background: #777;
     border-radius: 5px;
     width: 100%;
     padding: 24px;
@@ -106,12 +108,14 @@ export const Issues = styled.div`
 
     strong {
     font-size: 20px;
-    color: #3d3d4d;
+    /* color: #3d3d4d; */
+    color: #fff;
     }
 
     p {
     font-size: 18px;
-    color: #a8a8b3;
+    /* color: #a8a8b3; */
+    color: #3d3d4d;
     margin-top: 4px;
     }
   }
