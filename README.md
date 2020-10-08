@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GitHub Explorer" title="GitHub Explorer" src="public/logo.png" width='70%'/>
+    <img alt="GitHub Explorer" title="GitHub Explorer" src="public/logo.png" width="50px"/>
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="GitHub Explorer" src="./public/mockup.jpg" width="70%">
+  <img alt="GitHub Explorer" src="./public/mockupimg.jpg" width="70%">
 </p>
 
 ## 🚀 Technologies
