@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GitHub Explorer" title="GitHub Explorer" src="public/logo.png" width="50px"/>
+    <img alt="GitHub Explorer" title="GitHub Explorer" src="public/logo.png"/>
 </h1>
 
 <p align="center">
